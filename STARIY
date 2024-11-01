@@ -1,1 +1,239 @@
-return(function(...)local B={"RGrUR3==";"8XtVDTZUWTq=";"RTk/WN==","qlACLTZ/MTufpTArJ5==";"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";"pGr/RG0=";"Jzkf","t0ryDTZ1Lltn","WGBzJzv5dIc4QtQt";"MgyLpgpG0BNldzQe";"plkCpN==","EN==","tzrIWTcHLq==","ticH";"pGkHRN==","t0f3MGr4Jzknxq==","WXQ/JkunLikBLiy/";"qTygLih/LTq=";"qih5J5==";"qlZctXpvWgpAM0Bo","q+crDiQrtlr2LGu+";"LTB4LTQI","tXc1LG03qluVJGArpGtfK4N5";"8TB1Llt0Jzk2J+h1Jzt2D+f=";"Dih5RGrgDiQCRlvUWmyUR3==";"JGkCJmd=";"8GuBJltcRmQrJzrUJmd=","0zuBpGtnqlACLTZ/";"qlk5pXtnL0yURmQnRlAHLiE=";"8iCKDMcPtlC7pGtzy5==";"pGu2pTB4LiE=";"8Gt1LGtnJ5==","tztgpGund5==";"Jlt2LN==";"i/J=";"Lzk/","/cgqHuGN/7Oq2gS3","8TQHLTq=","iBuHLTv=","0GuIWiQCRlv=","Qr1Tykt/yztrLkQeMtd=";"qzu/EkQULlpHLq==","tXc1LG030ztApTtIpXdjEN==";"LzrnL0cBpXQURgF=","7+J3","DluURN==","pwF=";"iBumD5==","JzknLq==";"Jlt1RN==";"Qmc1RT0=","qlunL0pBWq==","dwkixGZ8TmtLTktr";"JztApTrnLq==","i+ySR+psJly1RtulWTy/WTBsplknRzr2L5==";"qlunLq==";"MlH=";"plunLXdn";"MiymEkQULlpHLq==";"qluVJGArpGtf","pGk4RG0=";"LGum","tlkCpFLUJfySWTAf","Llt/Dlu2RztgpGrURmd=";"qmt/pGu28GuHLGtn","DzABLihnWTZ/";"q/LnDTBr","pm0=","pTZ5DTyY","0GA1xTtnQ+tC";"tzrnpXt1RktILiE=";"tXc1LGth0FfUqlu2LzrnRtQnDTQr","qTAH";"pkcE8M1BMgcZWgLQD5==";"Qi1CpPhERlBr","Qi1rD+t/","WTZILic/";"qikBLF0+QGuGQlrAD5==","Qlt/EkQnDTQrEGACDlt2Jl0=";"xicZJIcn8+LkQkkFT3==";"Riym";"8XtVDTZUWTQ8Rlu/0GknpN==";"RGu2L5==","p+h7Dttk0/ZYKwphq5==","tGtvpFA1DztH","0zt5RGrgDiQrLky/R+c1Ll0=";"plrILq==","tGtvpN==","TTpBJtyGDghXdTq+yk0=","i+ySR+psJly1Rtu5Lic5LiQnDiQUJru+Dic2WTZm";"tlt4WGuUWBut0f5=","J+tSKttkLkL9pGAP","tzJZttCM0wqA0X1Md3==";"RlAf";"ql11JzkgpGtn","KkSvyMpixtkIQFvAd3==","Qlt/0ltnpzrgLq==";"Jl1UpBuIDlkVi+p1JzZCRzJ=";"8TZzR5==";"0+hrLTq=","Jlr2","0GknLTZ/";"MTuBJltPpiQ/RlvAqlACDlH=","Wlr2L5==";"qlu2RztgpN==","JlZUp5==","Dzk/","Rzt+","Jzk2LGuV","0GA1xTtnJ5==","LGtIpGr2DiQCRlZsWTq=","Q/d+pth4t+LKJghjL3==";"R+pH","J+r2";"tGuBDl10R/t2pGtn","LGtrJ3==","qlkVLic1";"Llt/";"DluI";"QmyZJ5==";"D+cUp5==";"WXQ/JXdj7nunDiJ2Llr/WXt4piyrJzyURmQrRmq2DluV7lB1xwfBKMJURPuVDTr27+3=";"tGVZTgtiyBcoDB1/yBE=";"DTF=";"qzuv";"DluHR+E=";"J+h1plv=","Dq==","WXQ/JXdj7nunDiJ2Llr/WXt4piyrJzyURmQrRmq2DluV7lB1xwfBKMJURPuVDTr27ld=","JlZ1WT5=";"Jlkf","D+c1D3==","qlu2pGkCRztn";"TMDl00Q+y0LvxT15dTH=","JzrgWN==","LmtgW5==";"8XQ/JFprpN==","tlunW+y5DTyr";"EndgEFBIL5==";"Dlu2pGt2pN==";"QGr1RGumqih5","xzykKTQg0wpqJGk5MN==";"yFrZKtrQ8t1rqIrKt5==";"Qlt/QGtIDlt2LGk2pXd=";"QGtzDitHpFySDiQMxiy/LTBwWGk/QiLrRmQI","JGy1RG5=";"QGtIpXcUxq==";"JlB1RG5=","tlVjTfyARrFlDTkn";"tGumLlAr","0GknpGZrJfA1DztH";"x0BktX1eD/uGqTdBQGq=","Qzr2LFLCJmy/ql1CRGq=","8TB1LltPpiQ/Rlv=";"tXc1LGthJXN=","EF1rRGAUEwS3";"0ztA";"qluV";"Qlt/ql1CRGQnLTv=","yzAixFcwTkL5y0p400a=";"J+QnWTZm";"LzrIWN==","tGtnJzkCR3==";"8XQ/JkyrJmLCDl0=","MTkCRfB1JN==";"J+hHWiq=","tXc1LG03qluVJGArpGtfK4N=","qgFvtit2Dih20Xc2";"plunLXdA";"tlkHWBy5LTtf";"JGuUJ3==","qTygLih/";"JGrm";"0GknpGZrJfuzLztn";"Mza=";"Jzk2LGuVEFBIL5==";"Dzt1J3==","MTt/WGuf","QGr1RGum";"iBuCRzQrxN==","LGtID+cCJXQCRlv=";"JlAUp5==","MzunRTkHQGr1RGum";"LTBB";"EkrUpiE3DlufL8NjEN==","0lACLGtn";"RGu1LN==";"Qi1/JzkPpiQ/RlZIqih5";"WTk9M0vBTM058mh4prq=","pGuIpXcCRzJ=";"pXr5Lq==";"JGAnJ5==","tzkHpT0=","MkN=","QzkgLq==";"MztmR+QCDiQCRlZGJzkVLq==";"Jl1Z","Tidn8ktoLtrcWwrB";"JGuIx3==";"8ryoMft2DlufLq==","EkrUpiE3DlufL8NjEPdgEndgEnd=","MrDADzq+JirzLzuGyN==";"tXc1LG030ztApTtIpXdjEwN=";"Endg";"pwd=","tXc1LGth0FfUqTygLih/MztmR+QCDiQCRlv=","0ztApTtIpXd=";"tztgpGund3==";"8XQ/JkhUJ+q=";"0FuMtN==","R0BVdgrMtTtdMz1r";"pGkIW5==","QzrnLq==";"qmt/pGu2";"qTQUJXq3MT0=","Llt/x3==";"8iyh","q+tIpGuVEFBIL5==";"LzAZ";"0lAlKXknTg3ZKi0ApTJ=","xT1o8FZEdr1H0t1+L5==";"MGugDTAqRGkZLiE=","Qi11RihHL8hPR+3=";"Riymi+QZJG0=";"","JGu2xq==";"pwE=","/97Q3yPB/7mqVwS=","0zkfWitI";"tGumLlArd5==";"qlu2LzrnRTk/WTu2Qmc1RT0=","MTulLtQU","xirgTFLydMLeDfQiKq==","MzkVLq==";"8TZ/LicCR+cI";"RTkf";"qmt/pGu2tGtVJGA1pG0=","EXyrRmq3xTuBEGF3pXc1LG03JztApTtIpN==","Dlu2pGt2pPB/xihr","JztApTtIpN==","LlkVLq==","RGu1LXy/Jzr2L5==","qzufxq==";"Lzr2LN==","QzrnLtyrJmLrJ3==";"0lkZMTtIJlkmLtcrJitrJ+q=";"RTkmRzr/pTQr";"TGpHMFDIDmq5Ditn8t0=";"qlACDlVPpiQ/Rlvn";"qmt/pGu2J5=="}for n,Z in ipairs({{1;250},{1;181};{182,250}})do while Z[1]<Z[2]do B[Z[1]],B[Z[2]],Z[1],Z[2]=B[Z[2]],B[Z[1]],Z[1]+1,Z[2]-1 end end local function n(n)return B[n-46099]end do local n=table.insert local Z=string.len local p={G=6;s=31;["7"]=11;m=39;t=21,Y=43,o=15;["1"]=33;Z=57;L=25,P=2;F=4;C=41;D=24,["/"]=52;M=19,x=30,S=40;T=22;E=8,["6"]=63;N=0;["0"]=20;e=42;V=45;R=27;["+"]=55,U=47;q=16,g=35,["9"]=10,w=3;O=59;v=56;l=54;p=29,r=37,h=1;n=50,j=58,["8"]=18;u=61;I=51,c=9;d=12;["4"]=34;X=7;y=13;["2"]=46;a=60;W=26;B=53;K=14;["3"]=32;H=44,b=62,f=36;A=49,["5"]=48,z=38;J=28,k=5,i=23;Q=17}local H=B local R=type local O=table.concat local Q=math.floor local W=string.sub local E=string.char for B=1,#H,1 do local b=H[B]if R(b)=="string"then local R=Z(b)local S={}local t=1 local z=0 local U=0 while t<=R do local B=W(b,t,t)local Z=p[B]if Z then z=z+Z*64^(3-U)U=U+1 if U==4 then U=0 local B=Q(z/65536)local Z=Q((z%65536)/256)local p=z%256 n(S,E(B,Z,p))z=0 end elseif B=="="then n(S,E(Q(z/65536)))if t>=R or W(b,t+1,t+1)~="="then n(S,E(Q((z%65536)/256)))end break end t=t+1 end H[B]=O(S)end end end return(function(B,p,H,R,O,Q,W,b,k,a,z,S,E,Z,j,h,U,J,t,f,C,w,A)a,w,E,t,b,S,f,J,h,z,C,j,Z,k,A,U=function(B,n)local p=z(n)local H=function(H,R,O,Q,W)return Z(B,{H,R,O;Q,W},n,p)end return H end,function(B,n)local p=z(n)local H=function(H)return Z(B,{H},n,p)end return H end,{},0,{},function()t=t+1 b[t]=1 return t end,function(B,n)local p=z(n)local H=function(H,R)return Z(B,{H,R},n,p)end return H end,function(B,n)local p=z(n)local H=function(...)return Z(B,{...},n,p)end return H end,function(B,n)local p=z(n)local H=function()return Z(B,{},n,p)end return H end,function(B)for n=1,#B,1 do b[B[n]]=1+b[B[n]]end if H then local Z=H(true)local p=O(Z)p[n(46210)],p[n(46328)],p[n(46319)]=B,U,function()return 96387 end return Z else return R({},{[n(46328)]=U,[n(46210)]=B;[n(46319)]=function()return 96387 end})end end,function(B,n)local p=z(n)local H=function(H,R,O,Q,W,E)return Z(B,{H,R;O,Q,W;E},n,p)end return H end,function(B)b[B]=b[B]-1 if 0==b[B]then b[B],E[B]=nil,nil end end,function(Z,H,R,O)local N,i,J,u,P,D,z,t,X,d,l,V,L,s,U,y,W,r,c,g,b,M,m while Z do if Z<8157393 then if Z<4571895 then if Z<2628299 then if Z<1257345 then if Z<816316 then if Z<420261 then if Z<222419 then if Z<76382 then J=n(46140)b=H[1]U=n(46271)z=B[U]U=n(46127)U=z[U]U=U(z,J)z=n(46252)t=U[z]z=n(46125)W=t[z]t=n(46282)Z=W[t]t=b W=n(46200)Z[W]=t b=nil Z=B[n(46198)]W={}else u=g Z=r Z=8933649 end else if Z<337646 then W=n(46315)b=n(46139)Z=B[W]W=n(46254)Z[W]=b Z=B[n(46241)]W={}else g=n(46148)N=B[g]g=N()N=nil L=g~=N Z=L and 11755879 or 13193107 end end else if Z<752242 then if Z<532133 then d=n(46116)Z=15371734 r=n(46271)g=B[r]r=n(46127)r=g[r]r=r(g,d)g=n(46175)N=r[g]g=n(46276)r=n(46325)i=n(46158)M=N[g]V=B[i]N=n(46275)i=1 s=V[i]V=n(46231)d=s..V g=r..d N=M[N]r=n(46103)N=N(M,g,r)else W={}Z=B[n(46310)]end else y=n(46327)U=Z J=B[y]t=J Z=J and 8788748 or 13393817 end end else if Z<1014681 then if Z<895877 then if Z<825786 then r=n(46271)d=n(46116)g=B[r]Z=15371734 r=n(46127)r=g[r]r=r(g,d)g=n(46175)l=n(46111)i=n(46158)N=r[g]g=n(46276)M=N[g]V=B[i]i=1 r=n(46325)s=V[i]i=n(46215)D=B[l]V=i..D d=s..V g=r..d N=n(46275)N=M[N]r=n(46103)N=N(M,g,r)else P=n(46271)c=n(46140)X=B[P]P=n(46127)P=X[P]P=P(X,c)X=n(46252)l=P[X]X=n(46100)D=l[X]l=n(46185)Z=6032056 i=D[l]D=n(46331)V=i[D]i=n(46261)s=V[i]V=n(46204)d=s[V]s=n(46298)r=d[s]d=n(46304)g=r[d]r=1 N=g~=r y=N end else Z=12637058 end else if Z<1188982 then if Z<1049223 then U=n(46327)t=B[U]Z=t and 14557629 or 13284758 else Z=y and 2414153 or 7391970 end else Z=y and 1900602 or 1589808 end end end else if Z<1922941 then if Z<1666717 then if Z<1584809 then if Z<1321829 then Z=2065983 else L=n(46270)u=Z m=B[L]Z=m and 4881557 or 5681837 y=m end else if Z<1601982 then Z=5331619 J=nil U=nil else g=n(46124)s=n(46329)W=n(46315)D=n(46178)Z=B[W]V=n(46212)t=n(46139)U=n(46266)b=H L=n(46136)W=n(46254)N=n(46227)z=n(46165)Z[W]=t t=n(46134)i=n(46117)M=n(46201)d=n(46316)J=n(46113)Z={}u=n(46249)W=n(46222)r=n(46326)B[W]=Z m=n(46295)y=n(46161)W={t;z;U;J,y,u,m,L,M,N;g,r,d;s;V;i,D}U=n(46281)t=n(46199)z=n(46151)y=n(46146)V=n(46143)r=n(46166)u=n(46162)s=n(46192)B[t]=W m=n(46137)N=n(46207)L=n(46256)M=n(46203)J=n(46330)d=n(46342)i=n(46160)g=n(46214)t={z,U;J,y;u;m;L;M,N,g,r,d,s,V,i}N=n(46271)z=n(46338)g=n(46116)B[z]=t U=n(46334)z=B[U]M=B[N]N=n(46127)N=M[N]N=N(M,g)M=n(46284)L=N[M]M=n(46336)m=L[M]L=n(46288)u=m[L]m=n(46299)y=u[m]u=n(46185)J=y[u]U=z(J)J=f(11134292,{})N=n(46271)z=n(46120)U[z]=J U=n(46334)z=B[U]g=n(46116)M=B[N]N=n(46127)N=M[N]N=N(M,g)M=n(46284)L=N[M]M=n(46336)r=n(46271)m=L[M]g=n(46116)L=n(46288)u=m[L]m=n(46299)y=u[m]N=n(46271)u=n(46185)J=y[u]U=z(J)z=n(46335)J=h(6755022,{})U[z]=J U=n(46334)z=B[U]M=B[N]N=n(46127)N=M[N]N=N(M,g)M=n(46284)L=N[M]M=n(46336)m=L[M]L=n(46288)u=m[L]m=n(46299)y=u[m]m=n(46167)u=n(46185)J=y[u]U=z(J)J=k(8620807,{})z=n(46128)U[z]=J J=false U=n(46315)M=150 z=B[U]U=n(46106)z[U]=J d=n(46343)U=n(46291)z=B[U]y=n(46271)J=1 U=z(J)U=n(46315)z=B[U]U=n(46106)J=true z[U]=J U=n(46272)z=B[U]u=n(46159)J=B[y]m=J[m]y={m(J,u)}U=z(p(y))y=n(46322)z=U()U=n(46301)J=n(46245)u=a(7399650,{})U=z[U]U=U(z,J)J=n(46180)J=U[J]J=J(U,y,u)J=n(46180)y=n(46339)J=U[J]u=w(8185594,{})J=J(U,y,u)u=A(16156654,{})y=n(46169)J=n(46244)J=U[J]J=J(U,y,u)J=n(46244)m=n(46130)L=5 y=n(46206)u=a(230919,{})J=U[J]J=J(U,y,u)u=f(8263420,{})J=n(46244)J=U[J]y=n(46248)J=J(U,y,u)y=n(46253)J=n(46155)J=U[J]g=w(74242,{})u=k(9513762,{})J=J(U,y,u)y=n(46109)J=n(46244)J=U[J]u=a(13890472,{})J=J(U,y,u)J=15 y=S()E[y]=J u=S()J=0 N=1 E[u]=J J=n(46216)J=U[J]J=J(U,m,L,M,N,g)L=10 N=1 m=n(46259)J=n(46216)g=A(4651662,{y})J=U[J]M=35 J=J(U,m,L,M,N,g)J=n(46244)L=A(9843500,{})J=U[J]m=n(46233)J=J(U,m,L)m=n(46303)L=f(4411014,{})J=n(46244)J=U[J]J=J(U,m,L)m=n(46315)J=B[m]m=n(46237)L=0 J[m]=L L=0 m=n(46315)J=B[m]m=n(46340)J[m]=L L=n(46242)m=n(46314)J=C(5697710,{})B[m]=J J=a(3241059,{})m=n(46148)B[m]=J m=B[L]L=n(46157)J=m[L]L=k(14286260,{y;u})m=J(L)L=n(46242)m=B[L]L=n(46157)J=m[L]L=h(9551652,{})M=k(4018810,{})m=J(L)L=n(46176)m=C(10897229,{})J=S()E[J]=m m=B[L]L=m(M)L=n(46246)m=a(13512093,{})M=n(46334)Z=13193107 B[L]=m L=B[M]g=B[r]r=n(46116)N=g[r]r=n(46150)d=N[d]g={d(N,r)}M=L(p(g))L=n(46217)m=M[L]g=a(4081788,{})N=n(46157)M=n(46308)L=m(M)M=S()E[M]=L L=B[N]N=L(g)g=n(46148)N=B[g]g=N()N=nil L=g~=N end end else if Z<1757883 then if Z<1696893 then t=n(46315)b=B[t]t=n(46106)W=b[t]b=false Z=W==b Z=Z and 10708807 or 4468360 else z=n(46313)b=n(46229)W=B[b]t=B[z]z=n(46138)b=t[z]u=n(46283)U=E[R[1]]y=B[u]u=n(46149)J=y[u]u=E[R[2]]y=J(u)z=U*y L=n(46283)U=0 y=E[R[1]]m=B[L]L=n(46131)u=m[L]L=E[R[2]]m=u(L)J=y*m t=b(z,U,J)Z=W+t b=Z J=n(46271)U=B[J]J=n(46140)z=U[J]U=n(46252)t=z[U]z=n(46125)W=t[z]t=n(46282)U=n(46283)z=n(46320)Z=W[t]t=b[z]W=n(46262)W=Z[W]W=W(Z,t)W=E[R[2]]z=B[U]U=n(46287)b=nil t=z[U]U=1 z=t(U)Z=W+z E[R[2]]=Z Z=B[n(46278)]W={}end else Z=n(46177)Z=J[Z]Z=Z(J)Z=1589808 end end else if Z<2209837 then if Z<2113520 then if Z<1991334 then m=n(46271)u=B[m]m=n(46140)y=u[m]u=n(46252)J=y[u]y=n(46125)U=J[y]J=n(46112)z=U[J]U=n(46320)t=z[U]J=n(46229)U=B[J]J=n(46320)z=U[J]b=t-z z=4 t=n(46277)W=b[t]t=E[R[1]]b=t+z Z=W>b Z=Z and 2721363 or 1703988 else N=n(46235)y=Z u=B[N]J=u Z=u and 13440922 or 4914326 end else t,J=z(b,t)Z=t and 8098039 or 3375719 end else if Z<2578375 then if Z<2459179 then N=-50 M=n(46132)L=J[M]M=n(46132)m=L[M]L=n(46145)u=m[L]L=n(46347)m=n(46347)y=u[m]m=B[L]L=n(46138)M=0 u=m[L]L=0 m=u(L,M,N)Z=y*m y=n(46229)B[y]=Z Z=7391970 else Z=B[n(46250)]W={}end else Z=true Z=Z and 7650537 or 11495263 end end end end else if Z<3780817 then if Z<3224449 then if Z<2732790 then if Z<2648480 then if Z<2641267 then t=J Z=y Z=8788748 else N=n(46291)M=B[N]N=M()Z=10509633 M=true N=n(46327)B[N]=M end else if Z<2694291 then W={}Z=B[n(46289)]else U=n(46140)z=n(46271)t=B[z]z=n(46127)z=t[z]z=z(t,U)t=n(46252)b=z[t]t=n(46125)W=b[t]t=n(46229)b=n(46112)Z=W[b]W=n(46347)b=B[t]Z[W]=b Z=1703988 end end else if Z<3061953 then if Z<2985995 then y=n(46244)Z=J[y]m=n(46323)y=n(46118)N=n(46315)M=B[N]N=n(46237)L=M[N]u=m..L Z[y]=u Z=4038779 else Z=M u=L Z=12791175 end else Z=U Z=t and 15576028 or 7726828 end end else if Z<3391956 then if Z<3284354 then if Z<3236615 then J=u Z=N Z=13027726 else W=n(46306)U=n(46271)Z=B[W]J=n(46168)z=B[U]U=n(46127)U=z[U]U=U(z,J)J=n(46174)J=U[J]z={J(U)}U={Z(p(z))}W=U[1]t=U[3]z=W Z=2198595 b=U[2]end else t=n(46229)b=B[t]W={b}Z=B[n(46190)]end else if Z<3740040 then if Z<3690692 then N=n(46222)s=n(46158)g=n(46220)M=B[N]N=B[g]d=B[s]s=1 r=d[s]g=N(r)L=M[g]m=not L Z=m and 5765808 or 8024309 else Z=787992 end else m=Z r=n(46224)N=n(46264)M=J[N]g=B[r]r=n(46264)N=g[r]L=M~=N Z=L and 4783762 or 12791175 u=L end end end else if Z<4218909 then if Z<4043722 then if Z<4038130 then if Z<3987838 then U=y Z=u Z=7470308 else t=n(46271)b=B[t]t=n(46127)t=b[t]z=n(46168)t=t(b,z)b=n(46307)W=t[b]t=n(46220)b=n(46346)U=n(46224)Z=W[b]b=B[t]W=n(46183)z=B[U]W=Z[W]t={b(z)}W=W(Z,p(t))Z=W and 4946583 or 4448392 end else Z=12104050 J=nil U=nil end else if Z<4171743 then if Z<4096719 then Z=8425217 else Z=g y=N Z=9980721 end else L=Z g=n(46264)N=u[g]g=n(46267)t=y M=N==g m=M Z=M and 7024854 or 8581894 end end else if Z<4464880 then if Z<4463843 then if Z<4442893 then W={}Z=B[n(46142)]else W={}Z=B[n(46114)]end else Z=J Z=U and 6568136 or 14170545 end else if Z<4543450 then if Z<4527033 then W=n(46306)u=n(46271)m=n(46332)Z=B[W]y=B[u]u=n(46127)u=y[u]u=u(y,m)y=n(46296)J=u[y]y=n(46245)U=J[y]J=n(46163)z=U[J]J=n(46189)J=z[J]U={J(z)}z={Z(p(U))}t=z[3]b=z[2]W=z[1]z=W Z=12104050 else L=n(46264)m=J[L]L=n(46345)u=m==L y=u Z=u and 8402688 or 16413685 end else u=n(46235)J=Z y=B[u]Z=y and 5743791 or 15307732 U=y end end end end end else if Z<5936431 then if Z<5054059 then if Z<4821978 then if Z<4732682 then if Z<4645829 then if Z<4638244 then z=n(46238)W=n(46348)Z=B[W]W=n(46309)W=Z[W]W=W(Z)W=n(46348)Z=B[W]t=B[z]z=n(46138)W=n(46279)b=t[z]t={b()}W=Z[W]W=W(Z,p(t))W={}Z=B[n(46104)]else V=n(46140)Z=3876470 s=n(46271)d=B[s]s=n(46127)s=d[s]s=s(d,V)d=n(46252)r=s[d]d=n(46100)g=r[d]r=n(46185)N=g[r]g=n(46331)M=N[g]N=n(46293)L=M[N]m=not L y=m end else if Z<4670634 then b=H[1]Z=b b=nil E[R[1]]=Z W={}Z=B[n(46232)]else W={}b=nil Z=B[n(46153)]end end else if Z<4791278 then if Z<4769780 then Z=U Z=14170545 else r=n(46264)M=Z g=J[r]r=n(46193)N=g~=r L=N Z=N and 5290145 or 2994779 end else Z=14833093 U=n(46306)d=n(46271)t=B[U]r=B[d]s=n(46140)d=n(46127)d=r[d]d=d(r,s)r=n(46252)g=d[r]r=n(46100)N=g[r]g=n(46171)M=N[g]N=n(46209)L=M[N]M=n(46213)m=L[M]L=n(46280)u=m[L]L=n(46189)L=u[L]m={L(u)}u={t(p(m))}U=u[1]J=u[2]y=u[3]end end else if Z<4926262 then if Z<4903764 then if Z<4869089 then N=Z d=n(46180)r=B[d]g=not r Z=g and 3229282 or 6291648 u=g else Z=u W=y Z=14605246 end else s=n(46315)d=B[s]s=n(46106)r=d[s]N=Z g=not r u=g Z=g and 8933649 or 10678086 end else if Z<4963571 then if Z<4949709 then W=n(46306)u=n(46224)Z=B[W]y=B[u]u=n(46100)J=y[u]y=n(46218)U=J[y]J=n(46331)z=U[J]J=n(46189)J=z[J]U={J(z)}z={Z(p(U))}Z=8731402 b=z[2]W=z[1]t=z[3]z=W else W=n(46315)Z=B[W]W=n(46254)t=b Z[W]=t Z=4707983 end else Z=J Z=U and 8545029 or 1270310 end end end else if Z<5429181 then if Z<5323245 then if Z<5316589 then if Z<5119268 then Z=m Z=u and 9215257 or 11380059 y=u else g=n(46247)r=n(46147)Z=2994779 g=J[g]g=g(J,r)N=not g L=N end else Z=4448392 end else if Z<5354956 then if Z<5338195 then t,J=z(b,t)Z=t and 13910953 or 8591622 else m=Z U=t N=n(46264)M=J[N]N=n(46267)L=M==N Z=L and 13979563 or 5063322 u=L end else r=n(46180)N=B[r]Z=N and 8302845 or 8833294 end end else if Z<5727922 then if Z<5683933 then if Z<5631556 then Z=B[n(46263)]W={}u=j(u)z=nil m=nil y=j(y)M=j(M)L=nil J=j(J)U=nil else N=n(46239)M=B[N]L=Z Z=M and 8396544 or 8946961 m=M end else N=n(46317)u=n(46286)W=n(46170)r=n(46156)L=n(46211)t=H[2]m=n(46258)b=H[1]z=n(46255)U=n(46302)s=n(46311)M=N..b V=15559043 d=B[s]g=n(46165)s=d(V)N=n(46221)y={[u]=m,[L]=M;[N]=g;[r]=s}J={y}Z={[W]=z,[U]=J}z=Z U=n(46194)W=n(46271)Z=B[W]W=n(46127)W=Z[W]W=W(Z,U)Z=n(46230)Z=W[Z]Z=Z(W,z)u=n(46297)J=n(46305)U=Z W=n(46269)Z={[W]=J}y=B[u]J=Z Z=y and 14605246 or 1526318 W=y end else if Z<5891780 then if Z<5759005 then Z=J Z=12029295 else L=n(46222)r=n(46158)m=B[L]V=n(46283)M=n(46220)L=B[M]g=B[r]r=1 d=n(46158)N=g[r]M=L(N)g=n(46222)L={}m[M]=L M=n(46341)L=B[M]M=n(46107)m=L[M]N=B[g]r=B[d]d=1 g=r[d]d=n(46199)M=N[g]r=B[d]s=B[V]V=n(46139)d=s[V]l=n(46199)D=B[l]V=1 i=#D s=d(V,i)d=n(46292)l=n(46283)i=n(46338)g=r[s]V=B[i]D=B[l]l=n(46139)i=D[l]c=n(46338)l=1 P=B[c]X=#P D=i(l,X)s=V[D]r=d..s N=g..r g=n(46220)s=n(46158)Z=14526396 L=m(M,N)N=n(46222)M=B[N]N=B[g]d=B[s]s=1 r=d[s]g=N(r)L=M[g]M=1 m=L[M]L=n(46111)B[L]=m end else b=nil W={}Z=B[n(46164)]end end end end else if Z<7046244 then if Z<6497779 then if Z<6202855 then if Z<6023981 then if Z<5947846 then U=nil Z=8731402 J=nil else d=n(46116)r=n(46271)g=B[r]i=n(46158)r=n(46127)r=g[r]r=r(g,d)g=n(46175)N=r[g]r=n(46325)X=n(46315)g=n(46276)M=N[g]V=B[i]i=1 Z=15371734 s=V[i]N=n(46275)l=B[X]i=n(46292)X=n(46254)D=l[X]N=M[N]V=i..D d=s..V g=r..d r=n(46103)N=N(M,g,r)end else if Z<6060124 then Z=u Z=5024921 U=y else r=n(46315)g=B[r]r=n(46254)N=g[r]g=n(46139)M=N==g Z=M and 819225 or 5948085 end end else if Z<6451063 then if Z<6342871 then l=n(46271)D=B[l]l=n(46127)l=D[l]X=n(46140)l=l(D,X)D=n(46252)i=l[D]Z=3229282 D=n(46100)V=i[D]i=n(46185)s=V[i]V=n(46331)d=s[V]s=n(46293)r=d[s]g=not r u=g else L=n(46264)U=t m=J[L]L=n(46345)u=m==L Z=u and 11285337 or 15660510 y=u end else W={}Z=B[n(46290)]end end else if Z<6879945 then if Z<6629167 then if Z<6592613 then J=n(46257)U=B[J]Z=U and 4563595 or 6458565 else U=nil J=nil Z=7502053 end else Z=B[n(46179)]W={}end else if Z<7019912 then if Z<7012609 then Z=3725937 else L=n(46223)m=J[L]L=n(46195)u=m==L Z=1177636 y=u end else d=n(46225)r=u[d]d=n(46115)g=r[d]r=n(46118)N=g[r]g=n(46202)Z=8581894 M=N==g m=M end end end else if Z<7555189 then if Z<7399579 then if Z<7358555 then if Z<7260601 then b=n(46152)W=n(46271)Z=B[W]W=n(46167)W=Z[W]W=W(Z,b)W={}Z=B[n(46172)]else b=false Z=false W=false J=n(46327)t=n(46327)B[t]=Z t=n(46257)B[t]=W t=n(46235)B[t]=b z=Z U=B[J]t=U Z=U and 15510490 or 13903785 end else Z=2198595 U=nil J=nil end else if Z<7489150 then if Z<7408394 then W=n(46180)b=H[1]Z=b b=nil B[W]=Z Z=B[n(46300)]W={}else Z=J t=U Z=15510490 end else t,J=z(b,t)Z=t and 5338275 or 8020725 end end else if Z<7801747 then if Z<7757557 then if Z<7660294 then Z=2608719 else Z=9128727 end else L=n(46271)W=n(46314)Z=B[W]M=n(46140)m=B[L]L=n(46127)L=m[L]L=L(m,M)m=n(46252)u=L[m]m=n(46100)y=u[m]u=n(46185)J=y[u]y=n(46331)U=J[y]J=n(46261)z=U[J]U=n(46181)t=z[U]z=n(46118)b=t[z]W=Z(b)Z=B[n(46228)]W={}end else if Z<8041043 then if Z<8024012 then W={}Z=B[n(46219)]else g=n(46222)N=B[g]r=n(46220)g=B[r]V=n(46158)s=B[V]V=1 d=s[V]Z=14526396 r=g(d)M=N[r]N=1 L=M[N]M=n(46111)B[M]=L end else L=n(46264)m=J[L]L=n(46141)u=m==L Z=u and 7018710 or 1177636 U=t y=u end end end end end end else if Z<12140112 then if Z<9442131 then if Z<8668468 then if Z<8418297 then if Z<8338170 then if Z<8291440 then if Z<8259789 then b=H[1]W=n(46260)Z=b B[W]=Z W={}b=nil Z=B[n(46123)]else W=n(46315)Z=B[W]W=n(46254)b=n(46255)Z[W]=b Z=B[n(46182)]W={}end else if Z<8326599 then s=n(46315)d=B[s]s=n(46106)r=d[s]d=false N=r==d Z=N and 10216760 or 15125454 else U=t m=n(46184)u=n(46247)u=J[u]u=u(J,m)Z=u and 16474615 or 16528377 y=u end end else if Z<8401422 then if Z<8361465 then y=n(46324)Z=B[y]y=Z(J)Z=5947061 else Z=L y=m Z=4881557 end else L=n(46191)N=n(46244)m=B[L]L=n(46274)u=m[L]M=J[N]N=n(46118)L=M[N]M=n(46188)Z=16413685 m=u(L,M)y=m end end else if Z<8562487 then if Z<8531506 then if Z<8461461 then b=5 W=n(46291)Z=B[W]W=Z(b)Z=W and 11443037 or 583697 else t=n(46315)b=B[t]t=n(46106)W=b[t]b=false Z=W==b Z=Z and 11952493 or 12423035 end else J=E[R[2]]y=n(46148)U=J[y]y=n(46102)s=n(46271)V=n(46140)J=U(y)U=n(46275)U=J[U]U=U(J)d=B[s]Z=1270310 s=n(46127)s=d[s]s=s(d,V)d=n(46252)r=s[d]d=n(46100)g=r[d]r=n(46185)N=g[r]g=n(46331)u=N[g]N=n(46261)y=u[N]u=n(46204)J=y[u]y=n(46298)U=J[y]J=n(46304)y=1 U[J]=y g=n(46315)J=n(46315)U=B[J]J=n(46340)N=B[g]g=n(46340)u=N[g]N=1 y=u+N U[J]=y U=true y=n(46176)J=n(46235)B[J]=U u=A(7779053,{})J=B[y]y=J(u)end else if Z<8615476 then if Z<8591409 then Z=L Z=m and 9168152 or 10509633 else Z=B[n(46173)]W={}end else W={}Z=B[n(46110)]end end end else if Z<9032973 then if Z<8887614 then if Z<8828142 then if Z<8773421 then t,J=z(b,t)Z=t and 8333054 or 5322914 else Z=U Z=t and 1024031 or 13608352 end else if Z<8854136 then Z=12569984 else r=n(46315)g=B[r]y=Z r=n(46106)N=g[r]u=not N J=u Z=u and 13027726 or 4826259 end end else if Z<8949791 then if Z<8945508 then Z=N Z=13440922 J=u else g=n(46144)N=B[g]g=n(46270)Z=8396544 M=N[g]m=M end else W=n(46176)Z=B[W]b=k(1983548,{R[1],R[2]})W=Z(b)Z=995870 end end else if Z<9193504 then if Z<9147511 then if Z<9121943 then J=u Z=N Z=2639952 else J=Z u=n(46257)y=B[u]U=y Z=y and 4464776 or 10313531 end else m=E[R[1]]L=m(u)r=n(46315)L=n(46315)m=B[L]g=B[r]L=n(46237)r=n(46237)N=g[r]g=1 M=N+g m[L]=M M=.3 L=n(46291)m=B[L]L=m(M)L=n(46260)m=B[L]Z=m and 3588205 or 2643536 end else if Z<9234567 then if Z<9216205 then Z=y and 10300730 or 6601929 else P=n(46271)c=n(46140)X=B[P]P=n(46127)P=X[P]P=P(X,c)Z=15780322 X=n(46252)l=P[X]X=n(46100)D=l[X]l=n(46185)i=D[l]D=n(46331)V=i[D]i=n(46226)s=V[i]V=n(46273)d=s[V]s=n(46204)r=d[s]d=n(46298)g=r[d]r=n(46304)N=g[r]g=1 u=N~=g J=u end else W=n(46306)M=n(46271)N=n(46140)Z=B[W]L=B[M]M=n(46127)M=L[M]M=M(L,N)L=n(46252)m=M[L]L=n(46100)u=m[L]m=n(46171)y=u[m]u=n(46209)J=y[u]y=n(46213)U=J[y]J=n(46280)z=U[J]J=n(46189)J=z[J]U={J(z)}z={Z(p(U))}W=z[1]b=z[2]Z=7502053 t=z[3]z=W end end end end else if Z<10874457 then if Z<10244277 then if Z<9897233 then if Z<9679007 then if Z<9547163 then b=H[1]Z=b and 4960919 or 4707983 else Z=14380983 end else if Z<9839923 then U=n(46176)t=B[U]J=A(9249562,{R[1]})U=t(J)Z=3725937 else W={}Z=B[n(46126)]end end else if Z<10214028 then if Z<10138771 then Z=u U=y Z=5743791 else Z=12266359 end else Z=5491367 end end else if Z<10563335 then if Z<10375102 then if Z<10309784 then Z=E[R[1]]y=Z(J)Z=6601929 else d=n(46315)u=Z r=B[d]d=n(46106)g=r[d]N=not g y=N Z=N and 14260148 or 12428668 end else Z=14833093 t=nil u=nil end else if Z<10766030 then if Z<10695974 then V=n(46180)r=Z s=B[V]d=not s g=d Z=d and 86530 or 11619683 else Z=2561102 end else Z=14380983 end end end else if Z<11444761 then if Z<11366028 then if Z<11212850 then if Z<11069526 then J=n(46344)b=H[1]u=n(46133)W=n(46306)Z=B[W]U=B[J]y=b[u]J={U(y)}U={Z(p(J))}t=U[2]z=U[3]Z=15716832 W=U[1]U=W else Z=B[n(46251)]W={}end else N=n(46244)L=n(46191)m=B[L]L=n(46274)u=m[L]M=J[N]N=n(46118)L=M[N]M=n(46187)m=u(L,M)Z=15660510 y=m end else if Z<11398093 then if Z<11383936 then N=n(46225)M=J[N]N=n(46115)L=M[N]Z=9215257 M=n(46118)m=L[M]L=n(46337)u=m==L y=u else Z=g y=N Z=14260148 end else t=w(7133402,{})W=n(46246)Z=B[W]W=Z()W=n(46176)Z=B[W]z={Z(t)}Z=n(46158)b=z[2]W=z[1]B[Z]=W z=n(46158)Z=n(46154)B[Z]=b t=B[z]Z=not t Z=Z and 15948263 or 15749089 end end else if Z<11784230 then if Z<11698989 then if Z<11505872 then Z=15749089 else P=n(46271)c=n(46140)X=B[P]P=n(46127)P=X[P]P=P(X,c)X=n(46252)l=P[X]X=n(46100)D=l[X]l=n(46185)i=D[l]D=n(46331)V=i[D]i=n(46293)Z=86530 s=V[i]d=not s g=d end else V=n(46140)L=f(7334624,{J,M})g=n(46271)r=n(46101)Z=12569984 s=n(46271)N=B[g]g=n(46127)g=N[g]g=g(N,r)N=n(46348)B[N]=g d=B[s]s=n(46127)s=d[s]s=s(d,V)d=n(46252)r=s[d]d=n(46318)N=r[d]r=n(46135)r=N[r]d=k(4575371,{})r=r(N,d)end else if Z<12097856 then if Z<11992559 then Z=16520697 else V=n(46271)i=n(46140)J=n(46291)U=B[J]J=U()s=B[V]V=n(46127)V=s[V]V=V(s,i)s=n(46252)d=V[s]J=Z s=n(46100)r=d[s]d=n(46185)g=r[d]r=n(46331)N=g[r]g=n(46261)u=N[g]N=n(46293)y=u[N]U=y Z=y and 16396277 or 5024921 end else t,J=z(b,t)Z=t and 6409923 or 10872652 end end end end end else if Z<14337416 then if Z<13447453 then if Z<12778436 then if Z<12496038 then if Z<12382187 then if Z<12201725 then P=n(46140)X=n(46271)l=B[X]X=n(46127)X=l[X]X=X(l,P)l=n(46252)D=X[l]l=n(46100)i=D[l]D=n(46185)V=i[D]i=n(46331)s=V[i]V=n(46293)Z=4142206 d=s[V]r=not d N=r else Z=2651217 end else if Z<12423732 then W=n(46180)Z=B[W]Z=Z and 9029396 or 995870 else s=n(46180)d=B[s]g=Z r=not d Z=r and 11385692 or 16163822 N=r end end else if Z<12698109 then if Z<12615962 then r=n(46291)N=B[r]d=.1 r=N(d)Z=r and 5401765 or 5491367 else b=n(46242)W=B[b]b=n(46291)Z=W[b]W=Z()Z=W and 8509188 or 16520697 end else g=Z s=n(46180)d=B[s]r=not d N=r Z=r and 4142206 or 12141427 end end else if Z<13245359 then if Z<13183992 then if Z<12884851 then y=u Z=m Z=1195556 else Z=y Z=4765841 t=J end else N=n(46291)L=B[N]N=L()Z=394764 end else if Z<13432984 then if Z<13297092 then Z=B[n(46321)]W={}else r=n(46315)y=Z g=B[r]r=n(46106)N=g[r]u=not N Z=u and 2639952 or 13876136 J=u end else Z=y Z=J and 10203447 or 12029295 end end end else if Z<13920572 then if Z<13876624 then if Z<13649312 then if Z<13581064 then U=n(46271)W=n(46306)Z=B[W]J=n(46168)z=B[U]U=n(46127)U=z[U]U=U(z,J)J=n(46189)J=U[J]z={J(U)}U={Z(p(z))}b=U[2]W=U[1]t=U[3]Z=5331619 z=W else U=n(46191)z=n(46291)r=n(46271)t=B[z]d=n(46140)z=t()z=B[U]U=n(46196)t=z[U]g=B[r]r=n(46127)r=g[r]r=r(g,d)g=n(46252)N=r[g]g=n(46100)M=N[g]N=n(46171)L=M[N]M=n(46209)m=L[M]L=n(46213)u=m[L]m=n(46129)y=u[m]s=n(46140)u=n(46115)J=y[u]y=n(46118)U=J[y]J=n(46292)z=t(U,J)J=n(46191)t=n(46158)B[t]=z U=B[J]J=n(46274)t=U[J]d=n(46271)r=B[d]d=n(46127)d=r[d]d=d(r,s)r=n(46252)g=d[r]r=n(46100)N=g[r]g=n(46171)M=N[g]N=n(46209)L=M[N]M=n(46213)m=L[M]L=n(46129)u=m[L]m=n(46115)y=u[m]u=n(46118)J=y[u]y=n(46268)U=t(J,y)Z=U and 4821651 or 9838380 end else d=n(46180)N=Z r=B[d]g=not r u=g Z=g and 9034004 or 15252946 end else if Z<13909521 then if Z<13892098 then W=n(46272)b=n(46285)Z=B[W]W=Z(b)Z=W()W={}Z=B[n(46122)]else L=n(46315)J=Z m=B[L]L=n(46106)u=m[L]y=not u U=y Z=y and 7470308 or 14015404 end else L=n(46264)m=J[L]U=t L=n(46265)u=m~=L y=u Z=u and 3757170 or 1195556 end end else if Z<14177813 then if Z<14116840 then if Z<13993606 then r=n(46225)g=J[r]r=n(46115)N=g[r]g=n(46118)M=N[g]N=n(46205)L=M==N u=L Z=5063322 else M=n(46180)L=B[M]u=Z m=not L y=m Z=m and 3876470 or 4645518 end else U=n(46291)t=B[U]U=t()V=n(46140)s=n(46271)U=Z d=B[s]s=n(46127)s=d[s]s=s(d,V)d=n(46252)r=s[d]d=n(46100)g=r[d]r=n(46185)N=g[r]g=n(46331)u=N[g]N=n(46226)y=u[N]u=n(46293)J=y[u]Z=J and 16387573 or 3133535 t=J end else if Z<14283557 then if Z<14260123 then Z=n(46243)Z=y[Z]Z=Z(y)Z=15716832 J=z J=nil y=nil else U=y Z=u Z=4464776 end else Z=12637058 end end end end else if Z<15717483 then if Z<15303621 then if Z<14819687 then if Z<14536094 then if Z<14471412 then W=n(46291)Z=B[W]b=.3 W=Z(b)Z=W and 1676339 or 2561102 else g=.5 N=n(46291)M=B[N]N=M(g)r=n(46271)i=n(46158)d=n(46116)g=B[r]r=n(46127)r=g[r]r=r(g,d)g=n(46175)N=r[g]g=n(46276)M=N[g]X=n(46158)V=B[i]i=1 s=V[i]N=n(46275)r=n(46325)i=n(46186)N=M[N]l=B[X]X=1 D=l[X]V=i..D d=s..V g=r..d r=n(46103)N=N(M,g,r)r=n(46315)g=B[r]r=n(46254)N=g[r]g=n(46234)M=N==g Z=M and 459278 or 6068921 end else if Z<14600930 then U=Z y=n(46257)J=B[y]Z=J and 4765841 or 8864015 t=J else Z=n(46270)b=nil N=n(46312)L=n(46315)B[Z]=W m=B[L]y=n(46294)L=n(46121)u=m[L]z=nil W={}L=n(46208)m=n(46273)M=n(46240)Z={[y]=u,[m]=U,[L]=M;[N]=J}u=n(46270)y=Z J=nil Z=B[u]t=nil u=Z(y)U=nil Z=B[n(46333)]y=nil end end else if Z<15181817 then if Z<15119075 then y,u=U(J,y)Z=y and 4197504 or 6999766 else N=L()Z=8833294 end else l=n(46271)D=B[l]l=n(46127)l=D[l]X=n(46140)l=l(D,X)D=n(46252)i=l[D]D=n(46100)V=i[D]i=n(46185)s=V[i]V=n(46331)d=s[V]s=n(46293)r=d[s]g=not r u=g Z=9034004 end end else if Z<15543764 then if Z<15425056 then if Z<15322041 then u=Z d=n(46315)r=B[d]d=n(46106)g=r[d]N=not g y=N Z=N and 9980721 or 12725125 else Z=2643536 end else Z=z Z=13608352 end else if Z<15672005 then if Z<15622504 then U=E[R[2]]J=n(46148)t=U[J]J=n(46236)U=t(J)Z=7726828 t=n(46275)t=U[t]t=t(U)U=n(46291)J=.1 t=B[U]U=t(J)t=true U=n(46257)B[U]=t else Z=y and 2809429 or 4531338 end else z,y=U(t,z)Z=z and 14199730 or 5904564 end end end else if Z<16343119 then if Z<15948378 then if Z<15913242 then if Z<15779725 then Z=8425217 else Z=y Z=3133535 t=J end else Z=2608719 end else if Z<16156954 then if Z<16067278 then m=n(46197)N=n(46315)y=n(46244)Z=J[y]M=B[N]N=n(46340)L=M[N]u=m..L y=n(46118)Z[y]=u Z=4038779 else W=n(46315)b=n(46234)Z=B[W]W=n(46254)Z[W]=b Z=B[n(46119)]W={}end else P=n(46140)X=n(46271)l=B[X]Z=11385692 X=n(46127)X=l[X]X=X(l,P)l=n(46252)D=X[l]l=n(46100)i=D[l]D=n(46185)V=i[D]i=n(46331)s=V[i]V=n(46293)d=s[V]r=not d N=r end end else if Z<16447457 then if Z<16401289 then if Z<16390632 then l=n(46271)y=Z D=B[l]X=n(46140)l=n(46127)l=D[l]l=l(D,X)D=n(46252)i=l[D]D=n(46100)V=i[D]i=n(46185)s=V[i]V=n(46331)d=s[V]s=n(46226)r=d[s]d=n(46273)g=r[d]r=n(46202)N=g[r]g=n(46293)u=N[g]Z=u and 9216281 or 15780322 J=u else l=n(46271)D=B[l]X=n(46140)l=n(46127)l=D[l]u=Z l=l(D,X)D=n(46252)i=l[D]D=n(46100)V=i[D]i=n(46185)s=V[i]V=n(46331)d=s[V]s=n(46261)r=d[s]d=n(46202)g=r[d]r=n(46293)N=g[r]Z=N and 870426 or 6032056 y=N end else Z=y and 15948775 or 4038779 end else if Z<16527578 then if Z<16519360 then N=n(46225)M=J[N]N=n(46115)L=M[N]M=n(46118)m=L[M]L=n(46105)Z=16528377 u=m==L y=u else W={}Z=B[n(46108)]end else Z=y and 8353535 or 5947061 end end end end end end end end Z=#O return p(W)end,function(B,n)local p=z(n)local H=function(H,R,O,Q)return Z(B,{H;R;O;Q},n,p)end return H end,function(B,n)local p=z(n)local H=function(H,R,O)return Z(B,{H,R;O},n,p)end return H end,function(B)local n,Z=1,B[1]while Z do b[Z],n=b[Z]-1,n+1 if 0==b[Z]then b[Z],E[Z]=nil,nil end Z=B[n]end end return(J(1610801,{}))(p(W))end)(getfenv and getfenv()or _ENV,unpack or table[n(46349)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+pcall(function()game:GetService("Players").LocalPlayer.PlayerGui.DialogApp:Destroy()end)
+
+local l__load__1 = require(game.ReplicatedStorage:WaitForChild("Fsys")).load;
+local TableUtil = l__load__1("TableUtil");
+local ClientData = l__load__1("ClientData");
+local RouterClient = l__load__1("RouterClient");
+local InventoryDB = l__load__1("InventoryDB");
+RouterClient.get('SettingsAPI/SetSetting'):FireServer("family_requests",3)
+RouterClient.get('SettingsAPI/SetSetting'):FireServer("party_requests",3)
+RouterClient.get('SettingsAPI/SetSetting'):FireServer("trade_requests",1)
+RouterClient.get('SettingsAPI/SetSetting'):FireServer("give_item_requests",3)
+plrs={}
+words1={
+    'king',
+    'rich',
+    'mad',
+    'long',
+    'sad',
+    'fly',
+    'tall',
+    'snow',
+    'poor',
+    'shy',
+    'old',
+    'cool',
+    'fat',
+    'rare',
+    'slow',
+    'wise',
+    'small'
+}
+words2={
+    'crow',
+    'lion',
+    'seal',
+    'deer',
+    'crab',
+    'bat',
+    'pony',
+    'pig',
+    'bear',
+    'emu',
+    'fuck',
+    'dog',
+    'fish',
+    'owl',
+    'snail'
+}
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/miroeramaa/TurtleLib/main/TurtleUiLib.lua"))();
+
+local Window1 = library:Window("Rawr")
+Window1:Toggle("Bot Toggle",false,function(E)
+    Toggle = E;
+end);
+Window1:Toggle("Msg Toggle",false,function(E)
+    Toggle3 = E;
+end);
+Window1:Button("### Msg",function()
+_G.ztype = '#'
+end);
+Window1:Button("random Msg",function()
+_G.ztype = 'random'
+end);
+
+Window1:Button("Get Trade license",function()
+    local l__load__1 = require(game.ReplicatedStorage:WaitForChild("Fsys")).load;
+    local u1 = l__load__1("TableUtil");
+    local u2 = l__load__1("ClientData");
+    local u18 = l__load__1("RouterClient");
+    u18.get("TradeAPI/BeginQuiz"):FireServer()
+    wait(3)
+    for i=1,3 do
+    u18.get("TradeAPI/AnswerQuizQuestion"):FireServer(tostring(u1.deep_copy(u2.get("trade_license_quiz_manager")).quiz[i].answer))
+    end
+end);
+
+local radius = 15
+local angle = 0
+
+Window1:Slider("Speed",5,150,10,function(E)
+    game:GetService("Players").LocalPlayer.Character.Humanoid.WalkSpeed = E;
+end);
+
+Window1:Slider("Radius",10,35,15,function(E)
+    radius = E;
+end);
+Window1:Label("Made by BTWBaby", Color3.fromRGB(127, 143, 166))
+Window1:Label("tested", Color3.fromRGB(127, 143, 166))
+
+MSG = function(plr,type)
+    if type == 'random' then
+        if not plrs[tostring(plr)] then
+            plrs[tostring(plr)] = {}
+            table.insert(plrs[tostring(plr)], (words1[math.random(1,#words1)]..' '..words2[math.random(1,#words2)]))
+            msg = plrs[tostring(plr)][1]
+        else
+            msg = plrs[tostring(plr)][1]
+        end
+    elseif type == 'custom' then
+        msg = _G.custom
+    elseif type == '#' then
+        msg = '#### ###'
+    end
+    return tostring(msg)
+end
+
+require(game:GetService("ReplicatedStorage").ClientModules.Core.UIManager.Apps.TradeApp)._show_scam_perpetrator_warning = function() return end
+require(game:GetService("ReplicatedStorage").ClientModules.Core.UIManager.Apps.TradeApp)._show_scam_victim_warning = function() return end
+require(game:GetService("ReplicatedStorage").ClientModules.Core.UIManager.Apps.TradeApp).show_scam_warning = function() return end
+
+local l__load__1 = require(game.ReplicatedStorage:WaitForChild("Fsys")).load;
+local u1 = l__load__1("InventoryDB");
+local u7 = l__load__1("RouterClient");
+local RouterClient = l__load__1("RouterClient");
+RouterClient.get('SettingsAPI/SetSetting'):FireServer("family_requests",3)
+RouterClient.get('SettingsAPI/SetSetting'):FireServer("party_requests",3)
+RouterClient.get('SettingsAPI/SetSetting'):FireServer("trade_requests",1)
+RouterClient.get('SettingsAPI/SetSetting'):FireServer("give_item_requests",3)
+function get_item(arg)
+    for i,v in pairs(u1) do
+        for ii,vv in pairs(v) do
+            if vv.image == arg then
+                return vv
+            end
+        end
+    end
+end
+names = {'pet_flying_potion','pet_riding_potion'}
+last_arg='lol'
+function _remove(plr,arg)
+    if last_arg ~= arg then
+        game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer('/w '..plr..' Уберите из трейда | Remove from trade : '..arg,"All")
+        last_arg = arg
+    end
+end
+
+local function check()
+    for i,v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.TradeApp.Frame.NegotiationFrame.Body.PartnerOffer.Slots:GetDescendants()) do
+        if v.Name =='ItemImageTemplate' then
+            item = get_item(v.Image)
+            if item['category'] == 'food' then
+                if table.find(names,item['id']) then
+                else
+                    return false, item['name']
+                end
+            elseif item['category'] == 'transport' then
+            elseif item['category'] == 'pets' then
+            else
+                return false, item['name']
+            end
+        end
+    end
+    return true, item['name']
+end
+
+last_trader = ''
+local function trade()
+    if Toggle3 and game:GetService("Players").LocalPlayer.PlayerGui.TradeApp.Frame.NegotiationFrame.Header:FindFirstChild("PartnerLabel") then
+        if last_trader ~= game:GetService("Players").LocalPlayer.PlayerGui.TradeApp.Frame.NegotiationFrame.Header.PartnerLabel.Text then
+            last_trader = game:GetService("Players").LocalPlayer.PlayerGui.TradeApp.Frame.NegotiationFrame.Header.PartnerLabel.Text
+            if last_trader ~= '' then
+                game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("/w "..game:GetService("Players").LocalPlayer.PlayerGui.TradeApp.Frame.NegotiationFrame.Header.PartnerLabel.Text.." Hello : "..game:GetService("Players").LocalPlayer.PlayerGui.TradeApp.Frame.NegotiationFrame.Header.PartnerLabel.Text,"All")
+                game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer("/w "..game:GetService("Players").LocalPlayer.PlayerGui.TradeApp.Frame.NegotiationFrame.Header.PartnerLabel.Text.." Your code : "..MSG(game:GetService("Players").LocalPlayer.PlayerGui.TradeApp.Frame.NegotiationFrame.Header.PartnerLabel.Text,_G.ztype),"All")
+            end
+        end
+    end
+    if (game:GetService("Players").LocalPlayer.PlayerGui.TradeApp.Frame.NegotiationFrame.Body.PartnerOffer.Accepted.ImageTransparency ~= 1) then
+        a,aa = check()
+        if not a then 
+            _remove(last_trader,aa)
+        else
+            u7.get("TradeAPI/AcceptNegotiation"):FireServer();
+            game:GetService("Players").LocalPlayer.PlayerGui.TradeApp.Frame.NegotiationFrame.Body.PartnerOffer.Accepted.ImageTransparency = 1
+        end
+    end
+    if (game:GetService("Players").LocalPlayer.PlayerGui.TradeApp.Frame.ConfirmationFrame.PartnerOffer.Accepted.ImageTransparency ~= 1) then
+        u7.get("TradeAPI/ConfirmTrade"):FireServer();
+        game:GetService("Players").LocalPlayer.PlayerGui.TradeApp.Frame.ConfirmationFrame.PartnerOffer.Accepted.ImageTransparency = 1
+    end
+end
+
+task.spawn(function()
+    while task.wait() do if _G.Execut == false then break end
+        if Toggle then
+            pcall(function()
+                if (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - posz.Position).magnitude>radius+4 then game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = posz end
+                newCFrame = (posz+Vector3.new(radius * math.cos(angle),0,radius * math.sin(angle)))
+                game.Players.LocalPlayer.Character.Humanoid:MoveTo(newCFrame.Position)
+                angle = angle + math.rad(1)
+            end)
+        end
+    end
+end)
+
+vu=game:GetService("VirtualUser")
+game:GetService("Players").LocalPlayer.Idled:Connect(function()
+    vu:CaptureController()
+    vu:ClickButton2(Vector2.new())
+end)
+
+pcall(function()
+    if game:GetService("Workspace").HouseInteriors.blueprint:FindFirstChild(tostring(game.Players.LocalPlayer)) then
+        for i,v in pairs(game.Players.LocalPlayer.PlayerGui.ExtraButtonsApp.Frame:GetChildren()) do
+            if v:IsA('ImageButton') and v.Face.TextLabel.Text == 'Exit Home' then
+                fireButton1(v)
+            end
+        end
+    end
+end)
+
+function getz()
+	for i,v in pairs(game:GetService("Workspace"):GetChildren()) do
+        if v.Name ~= 'Interiors' and v.Name ~= game.Players.LocalPlayer.Name and v.Name ~= 'Terrain' and not v:IsA("Camera") then
+            v:Destroy()
+        end
+    end
+end
+
+
+function get()
+    for i,v in pairs(game:GetService("Workspace"):GetDescendants()) do
+        if v.Name == 'destination_id' and v.Value == 'MainMap' then
+            posz = v.Parent.Parent.TouchToEnter.CFrame*CFrame.new(0,-3,-43)
+        end
+    end
+    return posz
+end
+repeat wait() until get() ~= nil
+
+while wait(0.1) do
+    if Toggle then
+        getz()
+        u7.get("FamilyAPI/CreateFamily"):InvokeServer()
+        for i=1,#game.Players:GetChildren() do
+            u7.get("TradeAPI/AcceptOrDeclineTradeRequest"):InvokeServer(game.Players:GetChildren()[i],true)
+        end
+        trade()
+    end
+end
